@@ -18,3 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
