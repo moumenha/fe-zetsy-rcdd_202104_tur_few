@@ -53,3 +53,9 @@ p {
     color: #1783bb;
     text-decoration: none;
 }
+
+.small{
+  .small {
+    font-size: 0.8em;
+}
+}
