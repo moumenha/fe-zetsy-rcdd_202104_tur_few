@@ -18,6 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
+
 .press img {
     border: 5px #ccc solid;
     padding: 1px;
